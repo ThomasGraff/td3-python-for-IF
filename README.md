@@ -1,3 +1,4 @@
+# Bastien le nul, Thomas trop beau, Edem trop fort
 HEAD
 il nous voit tout le temps. EKOUE EDEM  
 # td3-python-for-IF
